@@ -1,0 +1,91 @@
+
+<style.css>
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    color: black;
+    margin: 20px;
+}
+
+#chenar-nume {
+    background-color: #946464;
+    color: #833636;
+    padding: 10px; 
+    border: 2px solid #000; 
+}
+
+.contact-info {
+    text-align: right; 
+    margin-right: 20px; 
+}
+
+#tabel-titlu {
+    text-align: right; 
+    color: #3a2c2c;
+    margin-right: 20px;   
+}
+
+table {
+    width: 80%; 
+    margin-top: 20px;
+    margin-right: 20px;
+    float: right;
+}
+
+th, td {
+    border: 1px solid #e3681b;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: white;
+    color: black;
+}
+#chenar-dedesubt {
+    background-color: #dcdcdc; 
+    border: 2px solid #8b4513; 
+    margin-top: 300px; 
+    padding: 20px; 
+    text-align: center; 
+}
+
+#chenar-dedesubt h3 {
+    color: #694b27; 
+}
+#spatiu-intre-tabel-si-chenar {
+    margin-top: 20px; 
+}
+#chenar-dedesubt img {
+    width: 70%; 
+    max-width: 150%; 
+    height: auto; 
+    border-radius:10px;
+    opacity:1;
+}
+#subtitlu2 {
+    text-align: left; 
+    color: #3a2c2c;
+    margin-left: 20px; 
+}
+#subtitlu3 h3 {
+text-align: left;
+color: #513737;
+margin-left: 35px;
+}
+#subtitlu3 .resurse-container {
+margin-top: 20px;
+}
+
+#subtitlu3 .resurse-container img {
+width: 100%; 
+height: auto;
+border-radius:10px;
+opacity:1;
+}
+
+#slide-show-container {
+display: none; 
+}
+
+</style.css>
